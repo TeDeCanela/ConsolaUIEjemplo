@@ -10,7 +10,8 @@ namespace ConsolaUI
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Wola, ejemple");
+            Console.WriteLine("Wolaz, ejemple");
+            Console.WriteLine("Wolaz, ejemple");
             
         }
     }
